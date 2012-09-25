@@ -1,0 +1,16 @@
+.silver_surfer_img{
+    display:block;
+    margin-left: 20%;
+    text-align: center;
+    width: 50%;
+    height:190px;
+    background-image: url(../img/silver_surfer_banner.jpg);
+    background-size:100%;
+}
+html{
+    background-color:black;
+}
+body{
+    color:white;
+}
+a { color:yellow; }
